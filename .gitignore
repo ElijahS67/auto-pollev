@@ -1,0 +1,9 @@
+node_modules
+coverage
+.dev
+.vscode
+
+*.txt
+*.7z
+.idea/
+config.json
